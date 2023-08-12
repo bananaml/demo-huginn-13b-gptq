@@ -1,4 +1,3 @@
-# demo-huginn-13b-gptq
 ![](https://www.banana.dev/lib_zOkYpJoyYVcAamDf/x2p804nk9qvjb1vg.svg?w=340 "Banana.dev")
 
 # Banana.dev Huginn-13B-GPTQ starter template
